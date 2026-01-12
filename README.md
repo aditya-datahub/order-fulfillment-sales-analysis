@@ -88,7 +88,10 @@ SQL was used to:
 ---
 
 ### 5️⃣ Power BI Dashboard
-The final datasets were loaded into **Power BI** to build an interactive dashboard for business users.
+
+The final datasets were loaded into **Power BI** to build an interactive dashboard that tracks sales performance, profit, and target achievement across time (monthly and yearly), categories, and states.
+
+A stakeholder-ready PDF version of the dashboard is available in the `reports/` folder.
 
 #### 📊 Dashboard Highlights
 - Total Orders, Total Sales, Total Profit
@@ -143,7 +146,8 @@ optiflow-sales-performance-target-analysis/
 ├── cleaned_data/ # Cleaned & integrated datasets
 ├── notebooks/ # Data cleaning, integration & EDA notebooks
 ├── sql/ # SQL queries for analysis
-├── reports/ # Analysis summaries
+├── reports/ # Power BI dashboard PDF
+|
 ├── List of Orders.csv
 ├── Order Details.csv
 ├── Sales target.csv
