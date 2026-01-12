@@ -1,4 +1,4 @@
-# OptiFlow – Sales Performance & Target Achievement Analysis
+# OptiFlow – End-to-End Sales Performance & Target Analysis
 
 An end-to-end data analytics project focused on analyzing **sales performance against targets** using **Python, SQL, and Power BI**.  
 This project covers the complete analytics lifecycle — from raw data cleaning and integration to KPI analysis and an interactive business dashboard.
