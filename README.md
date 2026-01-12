@@ -105,7 +105,7 @@ The final datasets were loaded into **Power BI** to build an interactive dashboa
 
 ### Main Dashboard
 📁 Add image here:
-assets/ dashboard_overview.png
+![Sales Performance & Target Achievement Dashboard](assets/dashboard.png)
 
 ### Profit Margin Tooltip
 A custom tooltip was designed for **Profit Margin %** to:
@@ -115,7 +115,6 @@ A custom tooltip was designed for **Profit Margin %** to:
 
 📁 Add image here:
 assets/profit_margin_tooltip.png
-
 
 ---
 
